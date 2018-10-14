@@ -54,7 +54,7 @@ int main(){
     for(i=1;i<34;i++){
 	cout << "Слов длиной с " << i << " буквами: " << l_word[i] << endl;}
 		    		    
-    cout << "--------------------------" << endl << "Проанализировано" << endl
+    cout << "--------------------------" << endl << "Проанализировано" << endl 
 	 << "Букв: " << count_char << endl 
 	 << "Слов: " << count_word << endl << endl;
     system("pause");
